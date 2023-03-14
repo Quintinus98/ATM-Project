@@ -1,6 +1,13 @@
 # ATM
+A simple app that mimicks the operations of an Automated Teller Machine (ATM).
 
-**The BackEnd of an ATM.**
+## Getting Started
+Setup a virtual env
+Install pandas and numpy using pip.
+
+**RUN:** python3 AtmAccount.py
+
+## The BackEnd of an ATM.
 
 - Allows a user to register/create an account
 - An existing user can login to his account.
